@@ -31,11 +31,3 @@ dist/
 # OS Files
 .DS_Store
 Thumbs.db
-
-# Model Files (Optional)
-saved_models/*.keras
-saved_models/*.h5
-saved_models/*.pkl
-
-# Output Files (Optional)
-outputs/
